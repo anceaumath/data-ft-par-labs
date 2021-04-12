@@ -1,5 +1,8 @@
 
-* What do you do? i am going to learn more about data
+Bonjour je fais une nouvelle mise à jour 
+
+
+What do you do? i am going to learn more about data
 * Do you have previous experience with technology/data? not so much, basic notion
 
 # Why am I here
