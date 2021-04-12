@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Who am I
 
-* Where are you from? i am from paris
 * What do you do? i am going to learn more about data
 * Do you have previous experience with technology/data? not so much, basic notion
 
