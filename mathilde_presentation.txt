@@ -1,1 +1,16 @@
-Hello world!
+# Who am I
+
+* Where are you from? Paris
+* What do you do? learn data
+* Do you have previous experience with technology/data? no
+
+# Why am I here
+
+* What has brought you to Ironhack? learn data
+* What knowledge/skills do you expect to learn in this bootcamp? data knowledge
+
+# What will I do after the bootcamp?
+
+* Which industry will you seek employment in? still the same company but in ops
+* What will your future role look like? a mix between business and data
+* What is your career goal? being COO
